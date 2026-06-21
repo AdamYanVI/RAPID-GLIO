@@ -1,15 +1,12 @@
-# RAPID-GLIO
-Official Code for "RAPID-GLIO: A Raman-Assisted Platform for Intraoperative Detection of Glioma to Guide Precision Resection"
-
 # Project Description
 This repository contains the analysis pipeline for RAPID-GLIO, a Raman spectroscopy–based machine learning framework for intraoperative detection of gliomas.
 
 # Workflow
-Spectral preprocessing
-PCA-based dimensionality reduction
-Model training
-Model validation
-Ensemble importance analysis
+1. Spectral preprocessing
+2. PCA-based dimensionality reduction
+3. Model training
+4. Model validation
+5. Ensemble importance analysis
 
 # Environment
 All analyses were conducted using Python 3.8.1 with the following main dependencies:
